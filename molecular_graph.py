@@ -10,7 +10,7 @@ def molecular_graph(molecular_system, selection='all', reset_index=True):
        Nodes are named by atom indices and they contain atom names as data.
        Edges represent bonds and they contain bond lenghts
     """
-    Graph = nx.MultiGraph()
+    Graph = nx.Graph()
 
     indices, types, names, bonded_atoms, coords = msm.get(molecular_system, selection=selection, target="atom", 
                                            atom_index=True, atom_type=True, name=True, inner_bonded_atoms=True, coordinates=True)
