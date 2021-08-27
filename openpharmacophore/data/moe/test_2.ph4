@@ -1,0 +1,8 @@
+#moe:ph4que 2021.8
+#pharmacophore 5 tag t value *
+scheme t Unified matchsize i 0 title t s $
+#feature 3 expr tt color ix x r y r z r r r ebits ix gbits ix
+Aro df2f2 0.9999999999999999 0.0 0.0 0.9999999999999999 0 300 Acc df2f2 0.9999999999999999 1.9999999999999998 1.9999999999999998 0.9999999999999999 0 300 
+#volumesphere 90 x r y r z r r r
+1.9999999999999998 0.9999999999999999 1.9999999999999998 0.9999999999999999 
+#endpharmacophore
