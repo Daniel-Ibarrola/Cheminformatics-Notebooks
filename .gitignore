@@ -2,3 +2,6 @@ data/*
 images/*
 rdkit-tutorials/*
 .ipynb_checkpoints/
+# Trajectory files
+*.h5
+*.xyz
