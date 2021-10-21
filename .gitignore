@@ -5,3 +5,4 @@ rdkit-tutorials/*
 # Trajectory files
 *.h5
 *.xyz
+*.png
