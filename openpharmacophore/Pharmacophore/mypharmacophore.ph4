@@ -1,0 +1,6 @@
+#moe:ph4que 2021.10
+#pharmacophore 5 tag t value *
+scheme t Unified matchsize i 0 title t s $
+#feature 3 expr tt color ix x r y r z r r r ebits ix gbits ix
+Don df2f2 0.25 -1.15 2.34 1.5 0 300 Aro df2f2 -0.9999999999999999 0.0 1.9999999999999998 0.9999999999999999 0 300 Acc df2f2 -1.1999999999999997 -2.2999999999999994 0.49999999999999994 0.9999999999999999 0 300 
+#endpharmacophore

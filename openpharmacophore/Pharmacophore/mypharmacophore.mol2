@@ -1,0 +1,6 @@
+@<TRIPOS>MOLECULE
+@<TRIPOS>ATOM
+      1 DON          0.2500   -1.1500    2.3400   HB     0   HB      0.0000
+      2 AR          -1.0000    0.0000    2.0000   AR     1   AR      0.0000
+      3 ACC         -1.2000   -2.3000    0.5000   HB     2   HB      0.0000
+@<TRIPOS>BOND
